@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap');
+
+button {
+  border: none;
+  color: inherit;
+  background-color: transparent;
+  cursor: pointer;
+}
+
+.button {
+  width: 312px;
+  height: 48px;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 140%;
+  border-radius: 8px;
+}
+
+.button__dark {
+  background: #1972E7;
+  color: #FAFAFA;
+}
+
+.button__light {
+  background: #E5F8FF;
+  color: #1C7EFF;
+}

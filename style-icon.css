@@ -1,0 +1,390 @@
+@font-face {
+  font-family: 'TS-AI';
+  src:  url('fonts/TS-AI.eot?8mxiyi');
+  src:  url('fonts/TS-AI.eot?8mxiyi#iefix') format('embedded-opentype'),
+    url('fonts/TS-AI.ttf?8mxiyi') format('truetype'),
+    url('fonts/TS-AI.woff?8mxiyi') format('woff'),
+    url('fonts/TS-AI.svg?8mxiyi#TS-AI') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+i {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'TS-AI' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-x-closets:before {
+  content: "\e900";
+}
+.icon-x-circlets:before {
+  content: "\e901";
+}
+.icon-UserSettingsts .path1:before {
+  content: "\e902";
+  color: rgb(0, 0, 0);
+}
+.icon-UserSettingsts .path2:before {
+  content: "\e903";
+  margin-left: -1em;
+  color: rgb(111, 185, 85);
+}
+.icon-UserSettingsts .path3:before {
+  content: "\e904";
+  margin-left: -1em;
+  color: rgb(28, 126, 255);
+}
+.icon-Telegramts:before {
+  content: "\e905";
+}
+.icon-Shop-bigts .path1:before {
+  content: "\e906";
+  color: rgb(9, 9, 9);
+}
+.icon-Shop-bigts .path2:before {
+  content: "\e907";
+  margin-left: -1em;
+  color: rgb(0, 157, 236);
+}
+.icon-Shop-bigts .path3:before {
+  content: "\e908";
+  margin-left: -1em;
+  color: rgb(111, 185, 85);
+}
+.icon-Shopts .path1:before {
+  content: "\e909";
+  color: rgb(9, 9, 9);
+}
+.icon-Shopts .path2:before {
+  content: "\e90a";
+  margin-left: -1em;
+  color: rgb(0, 157, 236);
+}
+.icon-Shopts .path3:before {
+  content: "\e90b";
+  margin-left: -1em;
+  color: rgb(111, 185, 85);
+}
+.icon-Shieldts .path1:before {
+  content: "\e90c";
+  color: rgb(9, 9, 9);
+}
+.icon-Shieldts .path2:before {
+  content: "\e90d";
+  margin-left: -1em;
+  color: rgb(111, 185, 85);
+}
+.icon-Shieldts .path3:before {
+  content: "\e90e";
+  margin-left: -1em;
+  color: rgb(28, 126, 255);
+}
+.icon-Settingsts:before {
+  content: "\e90f";
+}
+.icon-Searchts:before {
+  content: "\e910";
+}
+.icon-Rocketts:before {
+  content: "\e911";
+}
+.icon-Reservets .path1:before {
+  content: "\e912";
+  color: rgb(9, 9, 9);
+}
+.icon-Reservets .path2:before {
+  content: "\e913";
+  margin-left: -1em;
+  color: rgb(0, 157, 236);
+}
+.icon-Reservets .path3:before {
+  content: "\e914";
+  margin-left: -1em;
+  color: rgb(111, 185, 85);
+}
+.icon-Puzzlests .path1:before {
+  content: "\e915";
+  color: rgb(9, 9, 9);
+}
+.icon-Puzzlests .path2:before {
+  content: "\e916";
+  margin-left: -1em;
+  color: rgb(111, 185, 85);
+}
+.icon-Puzzlests .path3:before {
+  content: "\e917";
+  margin-left: -1em;
+  color: rgb(28, 126, 255);
+}
+.icon-People-Networkts:before {
+  content: "\e918";
+}
+.icon-Opticts .path1:before {
+  content: "\e919";
+  color: rgb(9, 9, 9);
+}
+.icon-Opticts .path2:before {
+  content: "\e91a";
+  margin-left: -1em;
+  color: rgb(111, 185, 85);
+}
+.icon-Opticts .path3:before {
+  content: "\e91b";
+  margin-left: -1em;
+  color: rgb(28, 126, 255);
+}
+.icon-Network-Cube-bigts:before {
+  content: "\e91c";
+}
+.icon-Network-Cubets:before {
+  content: "\e91d";
+}
+.icon-Networkts .path1:before {
+  content: "\e91e";
+  color: rgb(9, 9, 9);
+}
+.icon-Networkts .path2:before {
+  content: "\e91f";
+  margin-left: -1em;
+  color: rgb(111, 185, 85);
+}
+.icon-Networkts .path3:before {
+  content: "\e920";
+  margin-left: -1em;
+  color: rgb(111, 185, 85);
+}
+.icon-Networkts .path4:before {
+  content: "\e921";
+  margin-left: -1em;
+  color: rgb(111, 185, 85);
+}
+.icon-Networkts .path5:before {
+  content: "\e922";
+  margin-left: -1em;
+  color: rgb(0, 157, 236);
+}
+.icon-Minusts:before {
+  content: "\e923";
+}
+.icon-Mapts .path1:before {
+  content: "\e924";
+  color: rgb(9, 9, 9);
+}
+.icon-Mapts .path2:before {
+  content: "\e925";
+  margin-left: -1em;
+  color: rgb(111, 185, 85);
+}
+.icon-Mapts .path3:before {
+  content: "\e926";
+  margin-left: -1em;
+  color: rgb(28, 126, 255);
+}
+.icon-Mailts:before {
+  content: "\e927";
+}
+.icon-Laptopts:before {
+  content: "\e928";
+}
+.icon-InternetShop-bigts .path1:before {
+  content: "\e929";
+  color: rgb(9, 9, 9);
+}
+.icon-InternetShop-bigts .path2:before {
+  content: "\e92a";
+  margin-left: -1em;
+  color: rgb(28, 126, 255);
+}
+.icon-InternetShopts .path1:before {
+  content: "\e92b";
+  color: rgb(9, 9, 9);
+}
+.icon-InternetShopts .path2:before {
+  content: "\e92c";
+  margin-left: -1em;
+  color: rgb(28, 126, 255);
+}
+.icon-Humants:before {
+  content: "\e92d";
+}
+.icon-Handts .path1:before {
+  content: "\e92e";
+  color: rgb(9, 9, 9);
+}
+.icon-Handts .path2:before {
+  content: "\e92f";
+  margin-left: -1em;
+  color: rgb(111, 185, 85);
+}
+.icon-Handts .path3:before {
+  content: "\e930";
+  margin-left: -1em;
+  color: rgb(0, 157, 236);
+}
+.icon-Giftts:before {
+  content: "\e931";
+}
+.icon-Gearsts .path1:before {
+  content: "\e932";
+  color: rgb(9, 9, 9);
+}
+.icon-Gearsts .path2:before {
+  content: "\e933";
+  margin-left: -1em;
+  color: rgb(111, 185, 85);
+}
+.icon-Gearsts .path3:before {
+  content: "\e934";
+  margin-left: -1em;
+  color: rgb(0, 157, 236);
+}
+.icon-Eyets:before {
+  content: "\e935";
+}
+.icon-Editts:before {
+  content: "\e936";
+}
+.icon-Downloadts:before {
+  content: "\e937";
+}
+.icon-Documentts:before {
+  content: "\e938";
+}
+.icon-Communicationts:before {
+  content: "\e939";
+}
+.icon-Cloudts .path1:before {
+  content: "\e93a";
+  color: rgb(111, 185, 85);
+}
+.icon-Cloudts .path2:before {
+  content: "\e93b";
+  margin-left: -1em;
+  color: rgb(9, 9, 9);
+}
+.icon-Cloudts .path3:before {
+  content: "\e93c";
+  margin-left: -1em;
+  color: rgb(28, 126, 255);
+}
+.icon-Cloudts .path4:before {
+  content: "\e93d";
+  margin-left: -1em;
+  color: rgb(9, 9, 9);
+}
+.icon-Cloudts .path5:before {
+  content: "\e93e";
+  margin-left: -1em;
+  color: rgb(111, 185, 85);
+}
+.icon-Cloudts .path6:before {
+  content: "\e93f";
+  margin-left: -1em;
+  color: rgb(111, 185, 85);
+}
+.icon-Cloudts .path7:before {
+  content: "\e940";
+  margin-left: -1em;
+  color: rgb(28, 126, 255);
+}
+.icon-Cloudts .path8:before {
+  content: "\e941";
+  margin-left: -1em;
+  color: rgb(28, 126, 255);
+}
+.icon-Checkts:before {
+  content: "\e942";
+}
+.icon-BuyShop-bigts .path1:before {
+  content: "\e943";
+  color: rgb(9, 9, 9);
+}
+.icon-BuyShop-bigts .path2:before {
+  content: "\e944";
+  margin-left: -1em;
+  color: rgb(111, 185, 85);
+}
+.icon-BuyShop-bigts .path3:before {
+  content: "\e945";
+  margin-left: -1em;
+  color: rgb(28, 126, 255);
+}
+.icon-BuyShopts .path1:before {
+  content: "\e946";
+  color: rgb(9, 9, 9);
+}
+.icon-BuyShopts .path2:before {
+  content: "\e947";
+  margin-left: -1em;
+  color: rgb(111, 185, 85);
+}
+.icon-BuyShopts .path3:before {
+  content: "\e948";
+  margin-left: -1em;
+  color: rgb(28, 126, 255);
+}
+.icon-Box-bigts .path1:before {
+  content: "\e949";
+  color: rgb(9, 9, 9);
+}
+.icon-Box-bigts .path2:before {
+  content: "\e94a";
+  margin-left: -1em;
+  color: rgb(111, 185, 85);
+}
+.icon-Boxts .path1:before {
+  content: "\e94b";
+  color: rgb(9, 9, 9);
+}
+.icon-Boxts .path2:before {
+  content: "\e94c";
+  margin-left: -1em;
+  color: rgb(111, 185, 85);
+}
+.icon-Bellts:before {
+  content: "\e94d";
+}
+.icon-Autoservice-bigts .path1:before {
+  content: "\e94e";
+  color: rgb(9, 9, 9);
+}
+.icon-Autoservice-bigts .path2:before {
+  content: "\e94f";
+  margin-left: -1em;
+  color: rgb(111, 185, 85);
+}
+.icon-Autoservicets .path1:before {
+  content: "\e950";
+  color: rgb(9, 9, 9);
+}
+.icon-Autoservicets .path2:before {
+  content: "\e951";
+  margin-left: -1em;
+  color: rgb(111, 185, 85);
+}
+.icon-ArrowUpts:before {
+  content: "\e952";
+}
+.icon-ArrowRightts:before {
+  content: "\e953";
+}
+.icon-ArrowLeftts:before {
+  content: "\e954";
+}
+.icon-ArrowDownts:before {
+  content: "\e955";
+}
+.icon-Addts:before {
+  content: "\e956";
+}
